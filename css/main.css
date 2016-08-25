@@ -1,0 +1,68 @@
+.caja1{
+	background-image: url("../img/profile-1.png");
+	width: 200px;
+	height: 200px;
+	position: relative;
+	margin-left: 20px;
+	
+}
+
+.caja2{
+	background-image: url("../img/profile-2.png");
+	width: 200px;
+	height: 200px;
+	left: 20px;
+	position: relative;
+	margin-top: -200px;
+	margin-left: 220px;
+}
+
+.caja3{
+	background-image: url("../img/profile-3.png");
+	width: 200px;
+	height: 200px;
+	margin-top: -200px;
+	margin-left: 460px;
+	position: relative;
+
+}
+
+.caja4{
+	background-image: url("../img/profile-4.png");
+	width: 200px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 20px;
+	position: relative;
+}
+
+.caja5{
+	background-image: url("../img/profile-5.png");
+	width: 200px;
+	height: 200px;
+	margin-top: -200px;
+	margin-left: 240px;
+	position: relative;
+}
+
+.caja6{
+	background-image: url("../img/profile-6.png");
+	width: 200px;
+	height: 200px;
+	margin-top: -200px;
+	margin-left: 460px;
+	position: relative;
+}
+
+.nombre{
+	position: absolute;
+	left: 70px;
+	top: 180px;
+	color: white;
+}
+.style{
+	border-top: 3px solid black;
+	width: 70px;
+    text-align: left;
+    margin-bottom:-20px;
+}
